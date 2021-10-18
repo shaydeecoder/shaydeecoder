@@ -28,11 +28,11 @@ I'm a Nigerian freelance software engineer, technical writer, SEO expert, and te
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![GitHub](https://img.icons8.com/color/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)
 
-## 🌏 My Pages
+<!-- ## 🌏 My Pages
 
 Wanna see some of my future projects? Follow me today!
 
-[![LinkedIn](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://linkedin.com/company/shaydeecoder) [![Facebook](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://facebook.com/shaydeecoder)
+[![LinkedIn](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://linkedin.com/company/shaydeecoder) [![Facebook](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://facebook.com/shaydeecoder) -->
 
 ---
 
