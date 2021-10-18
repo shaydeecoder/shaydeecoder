@@ -2,15 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Nigerian+Software+Engineer;Technical+Writer;SEO+Expert;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shaydeecoder) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shaydeecoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaydeecoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shaydeecoder) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/shaydeecoder) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/shaydeecoder)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shaydeecoder) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shaydeecoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaydeecoder) [![Hashnode](https://img.shields.io/badge/Hashnode-%231DA1F2.svg?&style=flat-square&logo=hashnode&logoColor=white)](https://shaydeecoder.hashnode.dev) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/shaydeecoder)
 
-I'm a Filipino freelance software engineer, opensource developer advocate, cybersecurity researcher, and technopreneur from the Philippines. Kumusta ka!
+I'm a Nigerian freelance software engineer, technical writer, SEO expert, and technopreneur from Lagos, Nigeria.
 
 - 💪 Currently working as a freelance software engineer.
 - 🔏 Bug bounty hunter in free time.
 - 💝 Mentored over 5000+ interns.
 - 📝 Published 8 articles.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/shaydeecoder)!
+- ☕ Coffee lover, turning it into code.
 - 🏆 2021 Goals:
   - Contribute and publish an open source project.
   - Publish my first SaaS project.
